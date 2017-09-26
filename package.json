@@ -36,7 +36,7 @@
     "superagent": "^3.4.1"
   },
   "devDependencies": {
-    "bitcore-wallet-service": "git://github.com/navcoin/bitcore-wallet-service.git#8abe2a6d968eb2c5c9714e9ab9c2cda676068cea",
+    "bitcore-wallet-service": "git://github.com/navcoin/bitcore-wallet-service.git#b65b0aedc4ce4c9e3a93072f6a30395e1e231f8d",
     "browserify": "^13.1.0",
     "chai": "^1.9.1",
     "coveralls": "^2.11.2",
