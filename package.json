@@ -17,18 +17,18 @@
   "engine": "node >= 0.12.0",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:navcoin/bitcore-wallet-client.git",
+    "url": "git@github.com:folm/bitcore-wallet-client.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/navcoin/bitcore-wallet-client/issues"
+    "url": "https://github.com/folm/bitcore-wallet-client/issues"
   },
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "bitcore-lib": "git://github.com/navcoin/bitcore-lib.git",
-    "bitcore-mnemonic": "git://github.com/navcoin/bitcore-mnemonic.git",
-    "bitcore-payment-protocol": "git://github.com/navcoin/bitcore-payment-protocol.git",
+    "bitcore-lib": "git://github.com/folm/bitcore-lib.git",
+    "bitcore-mnemonic": "git://github.com/folm/bitcore-mnemonic.git",
+    "bitcore-payment-protocol": "git://github.com/folm/bitcore-payment-protocol.git",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^3.3.1",
     "preconditions": "^1.0.8",
@@ -36,7 +36,7 @@
     "superagent": "^3.4.1"
   },
   "devDependencies": {
-    "bitcore-wallet-service": "git://github.com/navcoin/bitcore-wallet-service.git",
+    "bitcore-wallet-service": "git://github.com/folm/bitcore-wallet-service.git",
     "browserify": "^13.1.0",
     "chai": "^1.9.1",
     "coveralls": "^2.11.2",
